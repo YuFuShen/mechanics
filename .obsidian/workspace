@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "力.md",
+            "file": "應力.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "力.md",
+                "file": "應力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,15 @@
   },
   "active": "5be79e537635dbe0",
   "lastOpenFiles": [
-    "力.md"
+    "應力.md",
+    "材料力學.md",
+    "機械力學.md",
+    "蒲松氏比.md",
+    "動力學.md",
+    "運動學.md",
+    "剪力.md",
+    "sigma.png",
+    "多軸向受力相互影響.md",
+    "正向應力與剪應力關係.md"
   ]
 }
